@@ -1,0 +1,30 @@
+doctype html
+//if lt IE 7
+	html.no-js.lt-ie9.lt-ie8.lt-ie7
+//if IE 7
+	html.no-js.lt-ie9.lt-ie8
+//if IE 8
+	html.no-js.lt-ie9
+// [if gt IE 8] <!
+html.no-js
+	// <![endif]
+	head
+		meta(charset="utf-8")
+		meta(http-equiv="X-UA-Compatible", content="IE=edge")
+		title GS Theme
+		meta(name="description",content="")
+		meta(name="viewport",content="width=device-width, initial-scale=1")
+		link(rel='stylesheet', href='\<?php echo get_template_directory_uri(); ?\>/css/normalize.css')
+		link(rel='stylesheet', href='css/style.css')
+		script(src="js/vendor/modernizr-2.6.2.min.js")
+	body
+		.envoltura
+			include header
+			.cuerpo
+				block content
+			include footer
+		script(src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js")
+		script
+			window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')
+		script(src="js/plugins.js")
+		script(src="js/main.js")
