@@ -3,9 +3,9 @@
  * Configuración básica de WordPress.
  *
  * Este fichero contiene las siguientes configuraciones: ajustes de MySQL, prefijo de tablas,
- * claves secretas, idioma de WordPress y ABSPATH. Para obtener más información
- * visite la página del Codex {@link http://codex.wordpress.org/Editing_wp-config.php Editando
- * wp-config.php}. Los ajustes de MySQL se los proporcionará su proveedor de alojamiento web.
+ * claves secretas, y ABSPATH. Para obtener más información visite la página del Codex
+ * {@link http://codex.wordpress.org/Editing_wp-config.php Editando wp-config.php}.
+ * Los ajustes de MySQL se los proporcionará su proveedor de alojamiento web.
  * 
  * Este fichero es usado por el script de creación de wp-config.php durante la
  * instalación. Usted no tiene que utilizarlo en su sitio web, simplemente puede guardar este fichero

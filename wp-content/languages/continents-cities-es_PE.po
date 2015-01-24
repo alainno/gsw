@@ -5,10 +5,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: WordPress Continents Cites 4.0 Español Formal\n"
+"Project-Id-Version: WordPress Continents Cites 4.1 - Español Formal\n"
 "Report-Msgid-Bugs-To: http://wppolyglots.wordpress.com\n"
-"POT-Creation-Date: 2014-03-18 17:11:37+00:00\n"
-"PO-Revision-Date: 2014-09-04 11:58-0500\n"
+"POT-Creation-Date: 2014-12-18 19:17:00+00:00\n"
+"PO-Revision-Date: 2014-12-19 02:43-0500\n"
 "Last-Translator: Reyson Keler <wp.reyson@gmail.com>\n"
 "Language-Team: WordPress PE <wp.reyson@gmail.com - pe.wordpress.org>\n"
 "Language: es_PE\n"
